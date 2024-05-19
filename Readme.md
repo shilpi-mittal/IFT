@@ -7,7 +7,7 @@
 1. test1 : this is for test suite1
 2. test2 : this is for test suite2
 
-<B>ocker_utils.rs</B> has all the function for dockers
+<B>docker_utils.rs</B> has all the function for dockers
 
 <B>helper.rs</B> has rest call helpers
 
