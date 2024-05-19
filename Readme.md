@@ -21,3 +21,6 @@
 1. Install rust cargo (https://doc.rust-lang.org/cargo/getting-started/installation.html)
 2. cargo build
 3. cargo test (this will run both the test)
+
+<br> I have enabled github actions. 
+Logs : https://github.com/shilpi-mittal/IFT/actions/runs/9147174983/job/25148267428 for successful run.
