@@ -1,4 +1,3 @@
-use std::arch::aarch64::int8x8_t;
 use std::process::Stdio;
 use docker_command::{BaseCommand, Launcher, PortRange, PublishPorts, RunOpt, StopOpt};
 use execute::Execute;
